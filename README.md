@@ -9,7 +9,7 @@
 * 💻 My website: **[pigeon.works](https://pigeon.works)**.
 * 💬 My Discord: **pigeon#0256**.
 * 🧰 I currently know: **Lua & Python**.
-* 🌱 I’m currently learning **JS**.
+* 🌱 I’m currently learning **JavaScript**.
 -------
 🎮 **Wanna play with me?** _I'm open to playing a game with anyone!_
 * 🧱 **[Roblox](<https://roblox.com/users/23899181>)**
