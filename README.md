@@ -5,5 +5,5 @@
 * ⚡ My most popular project is **[CMD-X](<https://github.com/CMD-X/CMD-X>)**.
 * 💻 My website: **[pigeon.works](https://pigeon.works/)**.
 * 💬 My discord: **pigeon#0256**.
-* 🧰 I currently know: **Lua and Python**
+* 🧰 I currently know: **Lua & Python**.
 * 🌱 I’m currently learning **JS**.
