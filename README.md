@@ -7,3 +7,5 @@
 * 💬 My discord: **pigeon#0256**.
 * 🧰 I currently know: **Lua & Python**.
 * 🌱 I’m currently learning **JS**.
+
+I'm interested in creating, managing, and finding interesting and unusual stuff. I have always been intrigued by how far I can take a certain thing or how I could utilize something creatively.
