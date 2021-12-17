@@ -13,3 +13,5 @@
 🎮 **Wanna play with me?** _I'm open to playing a game with anyone!_
 * 🧱 **[Roblox](<https://roblox.com/users/23899181>)**
 * 🚂 **[Steam](<https://steamcommunity.com/id/9igeon>)**
+
+### 🤙 Drop me a follow!
