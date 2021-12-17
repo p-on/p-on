@@ -18,4 +18,3 @@
 💵 **Really liked my projects?** _Feel free to drop me some crypto as a donation!_
 * BTC **bc1qyeut7c6tjmgclqgls26h5adejs442h2s0ae4vm**
 * ETH **0x776F1F127F5fAD2d0C6a002D1391593Fce366B2B**
-* LTC **LUa4Vbo9wDdaAVwoCMpMYCkgwBupp55nC6**
