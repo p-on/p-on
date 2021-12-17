@@ -1,4 +1,3 @@
--------
 `💻 ABOUT_ME.md‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🗕 🗗 🗙`
 ### Hi there, I'm **pigeon** [@p-on](<https://github.com/p-on>) 👋
 
@@ -11,3 +10,4 @@
 * 🧰 I currently know: **Lua & Python**.
 * 🌱 I’m currently learning **JS**.
 -------
+🎮 Wanna play with me? #####I'm open to playing a game with anyone!
