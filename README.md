@@ -6,8 +6,8 @@
 -------
 * 🔭 I’m currently working on **[nil.lua](<https://github.com/p-on/nil.lua>)**.
 * ⚡ My most popular project is **[CMD-X](<https://github.com/CMD-X/CMD-X>)**.
-* 💻 My website **[pigeon.works](https://pigeon.works)**.
-* 💬 My Discord **pigeon#0256**.
+* 💻 My website is **[pigeon.works](https://pigeon.works)**.
+* 💬 My Discord is **pigeon#0256**.
 * 🧰 I currently know **Lua & Python**.
 * 🌱 I’m currently learning **JavaScript**.
 -------
