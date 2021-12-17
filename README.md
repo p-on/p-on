@@ -1,3 +1,4 @@
+# 🤙 Drop me a follow!
 `💻 ABOUT_ME.md‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🗕 🗗 🗙`
 ### Hi there, I'm **pigeon** [@p-on](<https://github.com/p-on>) 👋
 
@@ -13,5 +14,3 @@
 🎮 **Wanna play with me?** _I'm open to playing a game with anyone!_
 * 🧱 **[Roblox](<https://roblox.com/users/23899181>)**
 * 🚂 **[Steam](<https://steamcommunity.com/id/9igeon>)**
-
-# 🤙 Drop me a follow!
