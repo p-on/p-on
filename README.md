@@ -6,5 +6,3 @@
 * 💻 My website: **[pigeon.works](https://pigeon.works/)**.
 * 💬 My discord: **pigeon#0256**.
 * 🌱 I’m currently learning **JS**.
-
-<iframe src="https://pigeon.works" title="web"></iframe>
