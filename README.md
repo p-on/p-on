@@ -9,7 +9,7 @@
 * ⚡ My most popular project is **[CMD-X](<https://github.com/CMD-X/CMD-X>)**.
 * 💻 My website is **[pigeon.works](https://pigeon.works)**.
 * 💬 My Discord is **pigeon#0256**.
-* 💬 My Telegram is **[@p_geon](https://t.me/p_geon)**.
+* 🗯 My Telegram is **[@p_geon](https://t.me/p_geon)**.
 * 🧰 I currently know **Lua & Python**.
 * 🌱 I’m currently learning **JavaScript**.
 -------
