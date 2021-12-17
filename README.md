@@ -1,5 +1,4 @@
 ![banner](https://user-images.githubusercontent.com/96277381/146501248-44571c22-c4b0-4c39-bea3-61e38d53f18e.png)
-# 🤙 Drop me a follow!
 `💻 ABOUT_ME.md‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🗕 🗗 🗙`
 ### Hi there, I'm **pigeon** [@p-on](<https://github.com/p-on>) 👋
 
