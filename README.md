@@ -7,15 +7,10 @@
 -------
 * 🔭 I’m currently working on **[Olympus](<https://github.com/p-on/Olympus>)**.
 * ⚡ My most popular project is **[CMD-X](<https://github.com/CMD-X/CMD-X>)**.
-* 💻 My website is **[pigeon.works](https://pigeon.works)**.
 * 💬 My Discord is **pigeon#0256**.
 * 🗯 My Telegram is **[@p_geon](https://t.me/p_geon)**.
 * 🧰 I currently know **Lua & Python**.
 * 🌱 I’m currently learning **JavaScript**.
--------
-🎮 **Wanna play with me?** _I'm open to playing a game with anyone!_
-* 🧱 **[Roblox](<https://roblox.com/users/23899181>)**
-* 🚂 **[Steam](<https://steamcommunity.com/id/9igeon>)**
 -------
 💵 **Really liked my projects?** _Feel free to drop me some crypto as a donation!_
 * BTC **bc1qyeut7c6tjmgclqgls26h5adejs442h2s0ae4vm**
